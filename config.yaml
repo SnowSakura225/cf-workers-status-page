@@ -15,9 +15,9 @@ settings:
   dayInHistogramNotOperational: ' incident(s)' # xx incident(s) recorded
 
 monitors:
-  - id: https://lizalizalizard-lizardas2.hf.space/
-    name: https://lizalizalizard-lizardas2.hf.space/
-    url: 'https://lizalizalizard-lizardas2.hf.space/'
+  - id: https://lizalizalizard-3599a07d5583ea49f647.hf.space
+    name: https://lizalizalizard-3599a07d5583ea49f647.hf.space
+    url: 'https://lizalizalizard-3599a07d5583ea49f647.hf.space'
     method: GET
     expectStatus: 200
     linkable: true 
